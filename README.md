@@ -4,9 +4,9 @@
 Data wrangling is a core skill that everyone who works with data should be familiar with since so much of the world's data isn't clean. We need to wrangle our data for good outcomes, otherwise, there could be consequences. If we analyze, visualize, or model our data before we wrangle it, our consequences could be making mistakes, missing out on cool insights, and wasting time. So best practices say wrangle. Always. Through this project could be made:
 
 # Data wrangling, which consists of:
-  1. hering data
-  2. essing data
-  3. aning data
+  1. Gathering data
+  2. Aessing data
+  3. Cleaning data
 Storing, analyzing, and visualizing our wrangled data
 Reporting on 1) our data wrangling efforts and 2) our data analyses and visualizations
 

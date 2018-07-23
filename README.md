@@ -7,6 +7,7 @@ Data wrangling is a core skill that everyone who works with data should be famil
   1. Gathering data
   2. Aessing data
   3. Cleaning data
+  
 Storing, analyzing, and visualizing our wrangled data
 Reporting on 1) our data wrangling efforts and 2) our data analyses and visualizations
 

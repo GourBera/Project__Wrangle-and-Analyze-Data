@@ -3,7 +3,7 @@ Gathering data- Access tweet data of @dog_rates using tweeter API | Assessing da
 
 # Wrangling, Analyzing and Visualizing Data
 
-# Data wrangling, which consists of:
+Data wrangling, which consists of:
   1. Gathering data
   2. Aessing data
   3. Cleaning data
